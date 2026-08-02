@@ -1,0 +1,6 @@
+{
+  "name": "DVM Panel v1",
+  "description": "Next-generation VM & Cloud Hosting Management Platform with real-time analytics, instance management, and one-line automated installation script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
